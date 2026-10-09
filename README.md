@@ -6,6 +6,7 @@
 
   **The 1-Click 1000Hz Adapter Overclocker for *Super Smash Bros. Melee* & Slippi**
 
+  [![Download Release](https://img.shields.io/badge/Download-Latest%20Release%20(.ZIP)-brightgreen?style=for-the-badge&logo=github)](https://github.com/sheeshfr/Easy-1000hz-GCC/releases/latest)
   [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011%20(x64)-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sheeshfr/Easy-1000hz-GCC)
   [![License](https://img.shields.io/badge/License-GPL--3.0-blueviolet?style=for-the-badge)](https://github.com/sheeshfr/Easy-1000hz-GCC)
 
