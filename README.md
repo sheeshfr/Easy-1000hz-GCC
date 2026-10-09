@@ -20,21 +20,11 @@ Standard GameCube adapters only check for your controller inputs every 8 millise
 
 Best of all: it is **100% plug-and-play** and works safely on both Windows 10 & 11 without touching your PC's security settings.
 
----
+## 🎮 Supported Hardware & Controllers
 
-## ⚡ Speed Comparison
+Works out of the box with standard adapters and next-gen controllers:
 
-| | Regular Adapter | Overclocked with this Tool |
-| :--- | :---: | :---: |
-| **Input Delay** | 8 milliseconds | **1 millisecond (Instant)** |
-| **Update Speed** | 125 times per second | **1,000 times per second** |
-| **Setup Time** | 15 minutes of confusing guides | **One click (< 2 seconds)** |
-| **Windows 11 Safety** | Often broke security settings | **Works safely out of the box** |
-
----
-
-## 🎮 Compatible Adapters
-
+* 🐋 **[The Orca Analog Controller](https://theorca.gg):** Fully supported! The Orca is the holy grail of modern *Melee* controllers—a gorgeous stickless box engineered with **magnetic Hall Effect switches** for true analog depth (real analog stick angles, drift control, and shield drops in an ergonomic leverless format). This tool sets up your Orca at blistering 1000Hz (1ms) speed natively.
 * **Official Nintendo Wii U Adapter**
 * **Official Nintendo Switch Adapter**
 * **Mayflash 4-Port Adapter** *(make sure the switch on the back is set to "Wii U")*
@@ -45,9 +35,9 @@ Best of all: it is **100% plug-and-play** and works safely on both Windows 10 & 
 
 ## 🚀 How to Use (3 Simple Steps)
 
-### Step 1: Plug in your adapter
-* Plug the **black USB cable** into your PC (the grey cable is only needed for rumble).
-* If you have a **Mayflash adapter**, make sure the switch on the back is set to **"Wii U"** (not PC).
+### Step 1: Plug in your adapter / controller
+* **Standard Adapters:** Plug the **black USB cable** into your PC (the grey cable is only needed for rumble). If you have a **Mayflash adapter**, make sure the switch on the back is set to **"Wii U"** (not PC).
+* **The Orca:** Simply plug in your USB-C cable directly.
 
 ### Step 2: Run the installer
 * Double-click **`Auto_Overclock_1000Hz.exe`** (or `Click_Me_To_Overclock_1000Hz.bat`).
