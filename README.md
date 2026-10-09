@@ -8,7 +8,7 @@
 
   [![Download Release](https://img.shields.io/badge/Download-Latest%20Release%20(.ZIP)-brightgreen?style=for-the-badge&logo=github)](https://github.com/sheeshfr/Easy-1000hz-GCC/releases/latest)
   [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011%20(x64)-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sheeshfr/Easy-1000hz-GCC)
-  [![License](https://img.shields.io/badge/License-GLP--1-blueviolet?style=for-the-badge)](https://en.wikipedia.org/wiki/Glucagon-like_peptide-1)
+  [![License](https://img.shields.io/badge/License-GLP--1-blueviolet?style=for-the-badge)](https://www.youtube.com/watch?v=xsfcbTRNxyI&list=RDxsfcbTRNxyI&start_radio=1)
 
 </div>
 
