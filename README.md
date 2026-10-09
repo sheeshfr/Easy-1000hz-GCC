@@ -1,4 +1,8 @@
-# 1-Click 1000Hz GameCube Controller Adapter Overclocker (Portable Package)
+<div align="center">
+  <img src="logo.png" alt="Easy 1000Hz GCC" width="220" />
+  <h1>Easy 1000Hz GameCube Controller Adapter Overclocker</h1>
+  <p><b>1-Click 1000Hz Polling Rate • Windows 11 Memory Integrity (HVCI) Compatible • Plug & Play</b></p>
+</div>
 
 A 100% self-contained, portable, open-source toolset to configure any Nintendo Wii U or Mayflash GameCube Controller Adapter on Windows 10 & Windows 11 (x64) and overclock it to **1000 Hz** (1ms polling rate) for *Super Smash Bros. Melee* / Slippi.
 
