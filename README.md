@@ -1,36 +1,19 @@
 <div align="center">
-
-  <img src="logo.png" alt="Easy 1000Hz GCC Logo" width="180" />
-
-  # Easy 1000Hz GCC
-
-  **The 1-Click 1000Hz Adapter Overclocker for Slippi (the definitive way to play Super Smash Bros. Melee on unofficial hardware (new official tbh?? 🤔))**
-
-  [![Download Release](https://img.shields.io/badge/Download-Latest%20Release%20(.ZIP)-brightgreen?style=for-the-badge&logo=github)](https://github.com/sheeshfr/Easy-1000hz-GCC/releases/latest)
-  [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011%20(x64)-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sheeshfr/Easy-1000hz-GCC)
-  [![License](https://img.shields.io/badge/License-GLP--1-blueviolet?style=for-the-badge)](https://www.youtube.com/watch?v=wvdqggOuKSg)
-
+  <img src="logo.png" alt="Easy 1000Hz GCC Logo" width="128" />
+  <h1>Easy 1000Hz GCC</h1>
+  <p>A simple 1-click tool that overclocks your GameCube controller adapter to 1000Hz (1ms response time) for playing Super Smash Bros. Melee on Slippi.</p>
+  <p>Vibe coded by <a href="https://github.com/sheeshfr"><b>SheeshFr</b></a></p>
 </div>
 
 ---
 
-A simple 1-click tool that overclocks your GameCube controller adapter to **1000Hz (1ms response time)** for playing *Super Smash Bros. Melee* on Slippi.
+## Features
 
-### Why do this?
-Standard GameCube adapters only check for your controller inputs every 8 milliseconds. Overclocking drops that down to **1 millisecond**, making your inputs feel instant and crisp.
-
-Best of all: it is **100% plug-and-play** and works safely on both Windows 10 & 11 without touching your PC's security settings.
-
-## 🎮 Supported Hardware & Controllers
-
-Works out of the box with standard adapters and next-gen controllers:
-
-* 🐋 **[The Orca Analog Controller](https://theorca.gg):** Fully supported! The Orca is the holy grail of modern *Melee* controllers—a gorgeous stickless box engineered with **magnetic Hall Effect switches** for true analog depth (real analog stick angles, drift control, and shield drops in an ergonomic leverless format). This tool sets up your Orca at blistering 1000Hz (1ms) speed natively.
-* **Official Nintendo Wii U Adapter**
-* **Official Nintendo Switch Adapter**
-* **Mayflash 4-Port Adapter** *(make sure the switch on the back is set to "Wii U")*
-* **Mayflash 2-Port Adapter** *(set to "Wii U")*
-* **Generic 4-Port Clone Adapters**
+- **1000Hz (1ms) Response Time:** Standard GameCube adapters only poll controller inputs every 8 milliseconds. Overclocking drops that down to **1 millisecond**, making your inputs feel instant and crisp.
+- **100% Plug-and-Play:** Works safely on both Windows 10 & 11 in one click without touching your PC's security settings or requiring Test Mode.
+- **[The Orca Analog Controller](https://theorca.gg) Support:** Natively sets up The Orca Hall-Effect analog stickless controller at full 1000Hz (1ms) polling speed.
+- **Universal Adapter Compatibility:** Works out of the box with the Official Nintendo Wii U Adapter, Official Nintendo Switch Adapter, Mayflash 4-Port & 2-Port Adapters *(in "Wii U" mode)*, and Generic 4-Port Clone Adapters.
+- **One-Click Reset:** Includes `Uninstall_and_Reset.exe` to cleanly restore factory default Windows USB settings at any time.
 
 ---
 
